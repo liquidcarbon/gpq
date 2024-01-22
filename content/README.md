@@ -1,12 +1,12 @@
 ---
-description: Index page
+description: Landing page still needs TOC, otherwise it is confusing how to get where.
 layout:
   title:
     visible: true
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:

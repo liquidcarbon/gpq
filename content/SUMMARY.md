@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-
-## 24
-
-* [Gitbook + Quarto](24/gitbook-+-quarto.md)
-* [Second post](24/second-post.md)
+* [Blog](blog/README.md)
+  * [240121 Gitbook+Quarto](blog/240121-gitbook+quarto.md)
+  * [Second post](blog/second-post.md)
+  * [Page 3](blog/page-3.md)
