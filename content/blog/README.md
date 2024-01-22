@@ -4,6 +4,8 @@ description: Index page for the blog.
 
 # Blog
 
+<figure><img src="https://images.unsplash.com/photo-1472457897821-70d3819a0e24?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxzbWFsbCUyMGZ1bm55fGVufDB8fHx8MTcwNTg4NjAwNHww&#x26;ixlib=rb-4.0.3&#x26;q=85" alt="" width="375"><figcaption><p>The Path</p></figcaption></figure>
+
 GitBook has a lot to offer:
 
 * Git sync both ways
