@@ -15,3 +15,9 @@ Because:
 {% embed url="https://covid91.s3.amazonaws.com/covid_weekly_20210802.html" fullWidth="true" %}
 Embedded from S3 (not a real iframe).
 {% endembed %}
+
+
+## Feeling lucky
+
+<iframe src="https://covid91.s3.amazonaws.com/covid_weekly_20210802.html">
+<figure><iframe src="https://covid91.s3.amazonaws.com/covid_weekly_20210802.html"></figure>
