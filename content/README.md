@@ -22,3 +22,7 @@ There's Antimony, Arsenic, Aluminum, Selenium.
 | Al | Si | P  | S  |
 | Ga | Ge | As | Se |
 | In | Sn | Sb | Te |
+
+And argon, krypton, neon, radon, xenon, zinc, and rhodium
+
+And chlorine, carbon, cobalt, copper, tungsten, tin and sodium
